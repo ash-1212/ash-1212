@@ -4,7 +4,8 @@
 
 Computer Science graduate and gold medalist. Full-stack developer working with the MERN stack, WordPress and Python, and learning applied AI/ML.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-f4b6c7?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ayeshanazish-452048274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-f4b6c7?style=flat&logo=linkedin&logoColor=black)]
+(https://www.linkedin.com/in/ayesha-nazish-452048274)
 
 </div>
 
