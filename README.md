@@ -1,10 +1,10 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=190&section=header&text=Ayesha%20Nazish&fontColor=ffffff&fontSize=42&desc=Full-Stack%20MERN%20%7C%20WordPress%20%7C%20Python%20Backend%20%7C%20Learning%20AI%2FML&descColor=cccccc&descSize=15)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:3b1f2b,100:f4b6c7&height=230&section=header&text=Ayesha%20Nazish&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full-Stack%20MERN%20%7C%20WordPress%20%7C%20Python%20Backend%20%7C%20Learning%20AI%2FML&descColor=ffd6e0&descSize=16&descAlignY=58)
 
 Computer Science graduate and gold medalist. Full-stack developer working with the MERN stack, WordPress and Python, and learning applied AI/ML.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayeshanazish-452048274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-f4b6c7?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ayeshanazish-452048274)
 
 </div>
 
